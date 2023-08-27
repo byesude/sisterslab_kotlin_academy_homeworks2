@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">week6homework1</string>
+    <string name="anasayfa">ANASAYFA</string>
+    <string name="hosgeldiniz">HOŞ GELDİNİZ!</string>
+    <string name="button_yazi">Kaydet</string>
+</resources>
